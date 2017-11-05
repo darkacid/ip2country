@@ -1,0 +1,755 @@
+    <option value='US' title='Country: USA' selected>UNITED STATES</option>	
+	<option value="AF" title="Country: AFGHANISTAN">AFGHANISTAN</option>
+		
+	
+	<option value="AX" title="Country: ALAND ISLANDS">ALAND ISLANDS</option>
+		
+	
+	<option value="AL" title="Country: ALBANIA">ALBANIA</option>
+		
+	
+	<option value="DZ" title="Country: ALGERIA">ALGERIA</option>
+		
+	
+	<option value="AS" title="Country: AMERICAN SAMOA">AMERICAN SAMOA</option>
+		
+	
+	<option value="AD" title="Country: ANDORRA">ANDORRA</option>
+		
+	
+	<option value="AO" title="Country: ANGOLA">ANGOLA</option>
+		
+	
+	<option value="AI" title="Country: ANGUILLA">ANGUILLA</option>
+		
+	
+	<option value="AQ" title="Country: ANTARCTICA">ANTARCTICA</option>
+		
+	
+	<option value="AG" title="Country: ANTIGUA AND BARBUDA">ANTIGUA AND BARBUDA</option>
+		
+	
+	<option value="AR" title="Country: ARGENTINA">ARGENTINA</option>
+		
+	
+	<option value="AM" title="Country: ARMENIA">ARMENIA</option>
+		
+	
+	<option value="AW" title="Country: ARUBA">ARUBA</option>
+		
+	
+	<option value="AP" title="Country: ASIA PACIFIC">ASIA PACIFIC</option>
+		
+	
+	<option value="AU" title="Country: AUSTRALIA">AUSTRALIA</option>
+		
+	
+	<option value="AT" title="Country: AUSTRIA">AUSTRIA</option>
+		
+	
+	<option value="AZ" title="Country: AZERBAIJAN">AZERBAIJAN</option>
+		
+	
+	<option value="BS" title="Country: BAHAMAS">BAHAMAS</option>
+		
+	
+	<option value="BH" title="Country: BAHRAIN">BAHRAIN</option>
+		
+	
+	<option value="BD" title="Country: BANGLADESH">BANGLADESH</option>
+		
+	
+	<option value="BB" title="Country: BARBADOS">BARBADOS</option>
+		
+	
+	<option value="BY" title="Country: BELARUS">BELARUS</option>
+		
+	
+	<option value="BE" title="Country: BELGIUM">BELGIUM</option>
+		
+	
+	<option value="BZ" title="Country: BELIZE">BELIZE</option>
+		
+	
+	<option value="BJ" title="Country: BENIN">BENIN</option>
+		
+	
+	<option value="BM" title="Country: BERMUDA">BERMUDA</option>
+		
+	
+	<option value="BT" title="Country: BHUTAN">BHUTAN</option>
+		
+	
+	<option value="XA" title="Country: BOGONS">BOGONS</option>
+		
+	
+	<option value="BO" title="Country: BOLIVIA">BOLIVIA</option>
+		
+	
+	<option value="BQ" title="Country: BONAIRE, SAINT EUSTATIUS AND SABA">BONAIRE, SAINT EUSTATIUS AND SABA</option>
+		
+	
+	<option value="BA" title="Country: BOSNIA AND HERZEGOVINA">BOSNIA AND HERZEGOVINA</option>
+		
+	
+	<option value="BW" title="Country: BOTSWANA">BOTSWANA</option>
+		
+	
+	<option value="BV" title="Country: BOUVET ISLAND">BOUVET ISLAND</option>
+		
+	
+	<option value="BR" title="Country: BRAZIL">BRAZIL</option>
+		
+	
+	<option value="IO" title="Country: BRITISH INDIAN OCEAN TERRITORY">BRITISH INDIAN OCEAN TERRITORY</option>
+		
+	
+	<option value="BN" title="Country: BRUNEI DARUSSALAM">BRUNEI DARUSSALAM</option>
+		
+	
+	<option value="BG" title="Country: BULGARIA">BULGARIA</option>
+		
+	
+	<option value="BF" title="Country: BURKINA FASO">BURKINA FASO</option>
+		
+	
+	<option value="BI" title="Country: BURUNDI">BURUNDI</option>
+		
+	
+	<option value="KH" title="Country: CAMBODIA">CAMBODIA</option>
+		
+	
+	<option value="CM" title="Country: CAMEROON">CAMEROON</option>
+		
+	
+	<option value="CA" title="Country: CANADA">CANADA</option>
+		
+	
+	<option value="CV" title="Country: CAPE VERDE">CAPE VERDE</option>
+		
+	
+	<option value="KY" title="Country: CAYMAN ISLANDS">CAYMAN ISLANDS</option>
+		
+	
+	<option value="CF" title="Country: CENTRAL AFRICAN REPUBLIC">CENTRAL AFRICAN REPUBLIC</option>
+		
+	
+	<option value="TD" title="Country: CHAD">CHAD</option>
+		
+	
+	<option value="CL" title="Country: CHILE">CHILE</option>
+		
+	
+	<option value="CN" title="Country: CHINA">CHINA</option>
+		
+	
+	<option value="CX" title="Country: CHRISTMAS ISLAND">CHRISTMAS ISLAND</option>
+		
+	
+	<option value="CC" title="Country: COCOS (KEELING) ISLANDS">COCOS (KEELING) ISLANDS</option>
+		
+	
+	<option value="CO" title="Country: COLOMBIA">COLOMBIA</option>
+		
+	
+	<option value="KM" title="Country: COMOROS">COMOROS</option>
+		
+	
+	<option value="CG" title="Country: CONGO - BRAZZAVILLE">CONGO - BRAZZAVILLE</option>
+		
+	
+	<option value="CD" title="Country: CONGO, THE DEMOCRATIC REPUBLIC OF THE">CONGO, THE DEMOCRATIC REPUBLIC OF THE</option>
+		
+	
+	<option value="CK" title="Country: COOK ISLANDS">COOK ISLANDS</option>
+		
+	
+	<option value="CR" title="Country: COSTA RICA">COSTA RICA</option>
+		
+	
+	<option value="CI" title="Country: COTE D'IVOIRE">COTE D'IVOIRE</option>
+		
+	
+	<option value="HR" title="Country: CROATIA">CROATIA</option>
+		
+	
+	<option value="CU" title="Country: CUBA">CUBA</option>
+		
+	
+	<option value="CW" title="Country: CURACAO">CURACAO</option>
+		
+	
+	<option value="CY" title="Country: CYPRUS">CYPRUS</option>
+		
+	
+	<option value="CZ" title="Country: CZECH REPUBLIC">CZECH REPUBLIC</option>
+		
+	
+	<option value="DK" title="Country: DENMARK">DENMARK</option>
+		
+	
+	<option value="DJ" title="Country: DJIBOUTI">DJIBOUTI</option>
+		
+	
+	<option value="DM" title="Country: DOMINICA">DOMINICA</option>
+		
+	
+	<option value="DO" title="Country: DOMINICAN REPUBLIC">DOMINICAN REPUBLIC</option>
+		
+	
+	<option value="EC" title="Country: ECUADOR">ECUADOR</option>
+		
+	
+	<option value="EG" title="Country: EGYPT">EGYPT</option>
+		
+	
+	<option value="SV" title="Country: EL SALVADOR">EL SALVADOR</option>
+		
+	
+	<option value="GQ" title="Country: EQUATORIAL GUINEA">EQUATORIAL GUINEA</option>
+		
+	
+	<option value="ER" title="Country: ERITREA">ERITREA</option>
+		
+	
+	<option value="EE" title="Country: ESTONIA">ESTONIA</option>
+		
+	
+	<option value="ET" title="Country: ETHIOPIA">ETHIOPIA</option>
+		
+	
+	<option value="EU" title="Country: EUROPEAN UNION">EUROPEAN UNION</option>
+		
+	
+	<option value="FK" title="Country: FALKLAND ISLANDS (MALVINAS)">FALKLAND ISLANDS (MALVINAS)</option>
+		
+	
+	<option value="FO" title="Country: FAROE ISLANDS">FAROE ISLANDS</option>
+		
+	
+	<option value="FJ" title="Country: FIJI">FIJI</option>
+		
+	
+	<option value="FI" title="Country: FINLAND">FINLAND</option>
+		
+	
+	<option value="FR" title="Country: FRANCE">FRANCE</option>
+		
+	
+	<option value="GF" title="Country: FRENCH GUIANA">FRENCH GUIANA</option>
+		
+	
+	<option value="PF" title="Country: FRENCH POLYNESIA">FRENCH POLYNESIA</option>
+		
+	
+	<option value="TF" title="Country: FRENCH SOUTHERN TERRITORIES">FRENCH SOUTHERN TERRITORIES</option>
+		
+	
+	<option value="GA" title="Country: GABON">GABON</option>
+		
+	
+	<option value="GM" title="Country: GAMBIA">GAMBIA</option>
+		
+	
+	<option value="GE" title="Country: GEORGIA">GEORGIA</option>
+		
+	
+	<option value="DE" title="Country: GERMANY">GERMANY</option>
+		
+	
+	<option value="GH" title="Country: GHANA">GHANA</option>
+		
+	
+	<option value="GI" title="Country: GIBRALTAR">GIBRALTAR</option>
+		
+	
+	<option value="GR" title="Country: GREECE">GREECE</option>
+		
+	
+	<option value="GL" title="Country: GREENLAND">GREENLAND</option>
+		
+	
+	<option value="GD" title="Country: GRENADA">GRENADA</option>
+		
+	
+	<option value="GP" title="Country: GUADELOUPE">GUADELOUPE</option>
+		
+	
+	<option value="GU" title="Country: GUAM">GUAM</option>
+		
+	
+	<option value="GT" title="Country: GUATEMALA">GUATEMALA</option>
+		
+	
+	<option value="GG" title="Country: GUERNSEY">GUERNSEY</option>
+		
+	
+	<option value="GN" title="Country: GUINEA">GUINEA</option>
+		
+	
+	<option value="GW" title="Country: GUINEA-BISSAU">GUINEA-BISSAU</option>
+		
+	
+	<option value="GY" title="Country: GUYANA">GUYANA</option>
+		
+	
+	<option value="HT" title="Country: HAITI">HAITI</option>
+		
+	
+	<option value="HM" title="Country: HEARD AND MC DONALD ISLANDS">HEARD AND MC DONALD ISLANDS</option>
+		
+	
+	<option value="VA" title="Country: HOLY SEE">HOLY SEE</option>
+		
+	
+	<option value="HN" title="Country: HONDURAS">HONDURAS</option>
+		
+	
+	<option value="HK" title="Country: HONG KONG">HONG KONG</option>
+		
+	
+	<option value="HU" title="Country: HUNGARY">HUNGARY</option>
+		
+	
+	<option value="IS" title="Country: ICELAND">ICELAND</option>
+		
+	
+	<option value="IN" title="Country: INDIA">INDIA</option>
+		
+	
+	<option value="ID" title="Country: INDONESIA">INDONESIA</option>
+		
+	
+	<option value="IR" title="Country: IRAN, ISLAMIC REPUBLIC OF">IRAN, ISLAMIC REPUBLIC OF</option>
+		
+	
+	<option value="IQ" title="Country: IRAQ">IRAQ</option>
+		
+	
+	<option value="IE" title="Country: IRELAND">IRELAND</option>
+		
+	
+	<option value="IM" title="Country: ISLE OF MAN">ISLE OF MAN</option>
+		
+	
+	<option value="IL" title="Country: ISRAEL">ISRAEL</option>
+		
+	
+	<option value="IT" title="Country: ITALY">ITALY</option>
+		
+	
+	<option value="JM" title="Country: JAMAICA">JAMAICA</option>
+		
+	
+	<option value="JP" title="Country: JAPAN">JAPAN</option>
+		
+	
+	<option value="JE" title="Country: JERSEY">JERSEY</option>
+		
+	
+	<option value="JO" title="Country: JORDAN">JORDAN</option>
+		
+	
+	<option value="KZ" title="Country: KAZAKHSTAN">KAZAKHSTAN</option>
+		
+	
+	<option value="KE" title="Country: KENYA">KENYA</option>
+		
+	
+	<option value="KI" title="Country: KIRIBATI">KIRIBATI</option>
+		
+	
+	<option value="KP" title="Country: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF">KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</option>
+		
+	
+	<option value="KR" title="Country: KOREA, REPUBLIC OF">KOREA, REPUBLIC OF</option>
+		
+	
+	<option value="CS" title="Country: KOSOVO">KOSOVO</option>
+		
+	
+	<option value="KW" title="Country: KUWAIT">KUWAIT</option>
+		
+	
+	<option value="KG" title="Country: KYRGYZSTAN">KYRGYZSTAN</option>
+		
+	
+	<option value="LA" title="Country: LAO PEOPLE'S DEMOCRATIC REPUBLIC">LAO PEOPLE'S DEMOCRATIC REPUBLIC</option>
+		
+	
+	<option value="LV" title="Country: LATVIA">LATVIA</option>
+		
+	
+	<option value="LB" title="Country: LEBANON">LEBANON</option>
+		
+	
+	<option value="LS" title="Country: LESOTHO">LESOTHO</option>
+		
+	
+	<option value="LR" title="Country: LIBERIA">LIBERIA</option>
+		
+	
+	<option value="LY" title="Country: LIBYAN ARAB JAMAHIRIYA">LIBYAN ARAB JAMAHIRIYA</option>
+		
+	
+	<option value="LI" title="Country: LIECHTENSTEIN">LIECHTENSTEIN</option>
+		
+	
+	<option value="LT" title="Country: LITHUANIA">LITHUANIA</option>
+		
+	
+	<option value="LU" title="Country: LUXEMBOURG">LUXEMBOURG</option>
+		
+	
+	<option value="MO" title="Country: MACAO">MACAO</option>
+		
+	
+	<option value="MK" title="Country: MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF">MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</option>
+		
+	
+	<option value="MG" title="Country: MADAGASCAR">MADAGASCAR</option>
+		
+	
+	<option value="MW" title="Country: MALAWI">MALAWI</option>
+		
+	
+	<option value="MY" title="Country: MALAYSIA">MALAYSIA</option>
+		
+	
+	<option value="MV" title="Country: MALDIVES">MALDIVES</option>
+		
+	
+	<option value="ML" title="Country: MALI">MALI</option>
+		
+	
+	<option value="MT" title="Country: MALTA">MALTA</option>
+		
+	
+	<option value="MH" title="Country: MARSHALL ISLANDS">MARSHALL ISLANDS</option>
+		
+	
+	<option value="MQ" title="Country: MARTINIQUE">MARTINIQUE</option>
+		
+	
+	<option value="MR" title="Country: MAURITANIA">MAURITANIA</option>
+		
+	
+	<option value="MU" title="Country: MAURITIUS">MAURITIUS</option>
+		
+	
+	<option value="YT" title="Country: MAYOTTE">MAYOTTE</option>
+		
+	
+	<option value="MX" title="Country: MEXICO">MEXICO</option>
+		
+	
+	<option value="FM" title="Country: MICRONESIA, FEDERATED STATES OF">MICRONESIA, FEDERATED STATES OF</option>
+		
+	
+	<option value="MD" title="Country: MOLDOVA, REPUBLIC OF">MOLDOVA, REPUBLIC OF</option>
+		
+	
+	<option value="MC" title="Country: MONACO">MONACO</option>
+		
+	
+	<option value="MN" title="Country: MONGOLIA">MONGOLIA</option>
+		
+	
+	<option value="ME" title="Country: MONTENEGRO">MONTENEGRO</option>
+		
+	
+	<option value="MS" title="Country: MONTSERRAT">MONTSERRAT</option>
+		
+	
+	<option value="MA" title="Country: MOROCCO">MOROCCO</option>
+		
+	
+	<option value="MZ" title="Country: MOZAMBIQUE">MOZAMBIQUE</option>
+		
+	
+	<option value="MM" title="Country: MYANMAR">MYANMAR</option>
+		
+	
+	<option value="NA" title="Country: NAMIBIA">NAMIBIA</option>
+		
+	
+	<option value="NR" title="Country: NAURU">NAURU</option>
+		
+	
+	<option value="NP" title="Country: NEPAL">NEPAL</option>
+		
+	
+	<option value="NL" title="Country: NETHERLANDS">NETHERLANDS</option>
+		
+	
+	<option value="AN" title="Country: NETHERLANDS ANTILLES">NETHERLANDS ANTILLES</option>
+		
+	
+	<option value="NC" title="Country: NEW CALEDONIA">NEW CALEDONIA</option>
+		
+	
+	<option value="NZ" title="Country: NEW ZEALAND">NEW ZEALAND</option>
+		
+	
+	<option value="NI" title="Country: NICARAGUA">NICARAGUA</option>
+		
+	
+	<option value="NE" title="Country: NIGER">NIGER</option>
+		
+	
+	<option value="NG" title="Country: NIGERIA">NIGERIA</option>
+		
+	
+	<option value="NU" title="Country: NIUE">NIUE</option>
+		
+	
+	<option value="NF" title="Country: NORFOLK ISLAND">NORFOLK ISLAND</option>
+		
+	
+	<option value="MP" title="Country: NORTHERN MARIANA ISLANDS">NORTHERN MARIANA ISLANDS</option>
+		
+	
+	<option value="NO" title="Country: NORWAY">NORWAY</option>
+		
+	
+	<option value="OM" title="Country: OMAN">OMAN</option>
+		
+	
+	<option value="PK" title="Country: PAKISTAN">PAKISTAN</option>
+		
+	
+	<option value="PW" title="Country: PALAU">PALAU</option>
+		
+	
+	<option value="PS" title="Country: PALESTINIAN TERRITORY">PALESTINIAN TERRITORY</option>
+		
+	
+	<option value="PA" title="Country: PANAMA">PANAMA</option>
+		
+	
+	<option value="PG" title="Country: PAPUA NEW GUINEA">PAPUA NEW GUINEA</option>
+		
+	
+	<option value="PY" title="Country: PARAGUAY">PARAGUAY</option>
+		
+	
+	<option value="PE" title="Country: PERU">PERU</option>
+		
+	
+	<option value="PH" title="Country: PHILIPPINES">PHILIPPINES</option>
+		
+	
+	<option value="PN" title="Country: PITCAIRN">PITCAIRN</option>
+		
+	
+	<option value="PL" title="Country: POLAND">POLAND</option>
+		
+	
+	<option value="PT" title="Country: PORTUGAL">PORTUGAL</option>
+		
+	
+	<option value="PR" title="Country: PUERTO RICO">PUERTO RICO</option>
+		
+	
+	<option value="QA" title="Country: QATAR">QATAR</option>
+		
+	
+	<option value="RE" title="Country: REUNION">REUNION</option>
+		
+	
+	<option value="RO" title="Country: ROMANIA">ROMANIA</option>
+		
+	
+	<option value="RU" title="Country: RUSSIAN FEDERATION">RUSSIAN FEDERATION</option>
+		
+	
+	<option value="RW" title="Country: RWANDA">RWANDA</option>
+		
+	
+	<option value="BL" title="Country: SAINT BARTHELEMY">SAINT BARTHELEMY</option>
+		
+	
+	<option value="SH" title="Country: SAINT HELENA">SAINT HELENA</option>
+		
+	
+	<option value="KN" title="Country: SAINT KITTS AND NEVIS">SAINT KITTS AND NEVIS</option>
+		
+	
+	<option value="LC" title="Country: SAINT LUCIA">SAINT LUCIA</option>
+		
+	
+	<option value="MF" title="Country: SAINT MARTIN">SAINT MARTIN</option>
+		
+	
+	<option value="PM" title="Country: SAINT PIERRE AND MIQUELON">SAINT PIERRE AND MIQUELON</option>
+		
+	
+	<option value="VC" title="Country: SAINT VINCENT AND THE GRENADINES">SAINT VINCENT AND THE GRENADINES</option>
+		
+	
+	<option value="WS" title="Country: SAMOA">SAMOA</option>
+		
+	
+	<option value="SM" title="Country: SAN MARINO">SAN MARINO</option>
+		
+	
+	<option value="ST" title="Country: SAO TOME AND PRINCIPE">SAO TOME AND PRINCIPE</option>
+		
+	
+	<option value="SA" title="Country: SAUDI ARABIA">SAUDI ARABIA</option>
+		
+	
+	<option value="SN" title="Country: SENEGAL">SENEGAL</option>
+		
+	
+	<option value="RS" title="Country: SERBIA">SERBIA</option>
+		
+	
+	<option value="SC" title="Country: SEYCHELLES">SEYCHELLES</option>
+		
+	
+	<option value="SL" title="Country: SIERRA LEONE">SIERRA LEONE</option>
+		
+	
+	<option value="SG" title="Country: SINGAPORE">SINGAPORE</option>
+		
+	
+	<option value="SX" title="Country: SINT MAARTEN">SINT MAARTEN</option>
+		
+	
+	<option value="SK" title="Country: SLOVAKIA">SLOVAKIA</option>
+		
+	
+	<option value="SI" title="Country: SLOVENIA">SLOVENIA</option>
+		
+	
+	<option value="SB" title="Country: SOLOMON ISLANDS">SOLOMON ISLANDS</option>
+		
+	
+	<option value="SO" title="Country: SOMALIA">SOMALIA</option>
+		
+	
+	<option value="ZA" title="Country: SOUTH AFRICA">SOUTH AFRICA</option>
+		
+	
+	<option value="GS" title="Country: SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS">SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</option>
+		
+	
+	<option value="ES" title="Country: SPAIN">SPAIN</option>
+		
+	
+	<option value="LK" title="Country: SRI LANKA">SRI LANKA</option>
+		
+	
+	<option value="SD" title="Country: SUDAN">SUDAN</option>
+		
+	
+	<option value="SR" title="Country: SURINAME">SURINAME</option>
+		
+	
+	<option value="SJ" title="Country: SVALBARD & JAN MAYEN ISLANDS">SVALBARD & JAN MAYEN ISLANDS</option>
+		
+	
+	<option value="SZ" title="Country: SWAZILAND">SWAZILAND</option>
+		
+	
+	<option value="SE" title="Country: SWEDEN">SWEDEN</option>
+		
+	
+	<option value="CH" title="Country: SWITZERLAND">SWITZERLAND</option>
+		
+	
+	<option value="SY" title="Country: SYRIAN ARAB REPUBLIC">SYRIAN ARAB REPUBLIC</option>
+		
+	
+	<option value="TW" title="Country: TAIWAN, PROVINCE OF CHINA">TAIWAN, PROVINCE OF CHINA</option>
+		
+	
+	<option value="TJ" title="Country: TAJIKISTAN">TAJIKISTAN</option>
+		
+	
+	<option value="TZ" title="Country: TANZANIA, UNITED REPUBLIC OF">TANZANIA, UNITED REPUBLIC OF</option>
+		
+	
+	<option value="TH" title="Country: THAILAND">THAILAND</option>
+		
+	
+	<option value="TL" title="Country: TIMOR-LESTE">TIMOR-LESTE</option>
+		
+	
+	<option value="TG" title="Country: TOGO">TOGO</option>
+		
+	
+	<option value="TK" title="Country: TOKELAU">TOKELAU</option>
+		
+	
+	<option value="TO" title="Country: TONGA">TONGA</option>
+		
+	
+	<option value="TT" title="Country: TRINIDAD AND TOBAGO">TRINIDAD AND TOBAGO</option>
+		
+	
+	<option value="TN" title="Country: TUNISIA">TUNISIA</option>
+		
+	
+	<option value="TR" title="Country: TURKEY">TURKEY</option>
+		
+	
+	<option value="TM" title="Country: TURKMENISTAN">TURKMENISTAN</option>
+		
+	
+	<option value="TC" title="Country: TURKS AND CAICOS ISLANDS">TURKS AND CAICOS ISLANDS</option>
+		
+	
+	<option value="TV" title="Country: TUVALU">TUVALU</option>
+		
+	
+	<option value="UG" title="Country: UGANDA">UGANDA</option>
+		
+	
+	<option value="UA" title="Country: UKRAINE">UKRAINE</option>
+		
+	
+	<option value="AE" title="Country: UNITED ARAB EMIRATES">UNITED ARAB EMIRATES</option>
+		
+	
+	<option value="GB" title="Country: UNITED KINGDOM">UNITED KINGDOM</option>
+		
+	
+	<option value="UM" title="Country: UNITED STATES MINOR OUTLYING ISLANDS">UNITED STATES MINOR OUTLYING ISLANDS</option>
+		
+	
+	<option value="UY" title="Country: URUGUAY">URUGUAY</option>
+		
+	
+	<option value="UZ" title="Country: UZBEKISTAN">UZBEKISTAN</option>
+		
+	
+	<option value="VU" title="Country: VANUATU">VANUATU</option>
+		
+	
+	<option value="VE" title="Country: VENEZUELA">VENEZUELA</option>
+		
+	
+	<option value="VN" title="Country: VIET NAM">VIET NAM</option>
+		
+	
+	<option value="VG" title="Country: VIRGIN ISLANDS, BRITISH">VIRGIN ISLANDS, BRITISH</option>
+		
+	
+	<option value="VI" title="Country: VIRGIN ISLANDS, U.S.">VIRGIN ISLANDS, U.S.</option>
+		
+	
+	<option value="WF" title="Country: WALLIS AND FUTUNA ISLANDS">WALLIS AND FUTUNA ISLANDS</option>
+		
+	
+	<option value="EH" title="Country: WESTERN SAHARA">WESTERN SAHARA</option>
+		
+	
+	<option value="YE" title="Country: YEMEN">YEMEN</option>
+		
+	
+	<option value="ZM" title="Country: ZAMBIA">ZAMBIA</option>
+		
+	
+	<option value="ZW" title="Country: ZIMBABWE">ZIMBABWE</option>
