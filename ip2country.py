@@ -16,11 +16,11 @@ class ip2country:
 
         if int(firstList[0]) > int(secondList[0]):
             return True
-        elif int(firstList[1]) > int(secondList[1]):
+        if int(firstList[1]) > int(secondList[1]):
             return True
-        elif int(firstList[2]) > int(secondList[2]):
+        if int(firstList[2]) > int(secondList[2]):
             return True
-        elif int(firstList[3]) > int(secondList[3]):
+        if int(firstList[3]) > int(secondList[3]):
             return True
         return False
 
